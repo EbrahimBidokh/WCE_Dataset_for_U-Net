@@ -5,9 +5,9 @@ authors:
   given-names: "Ebrahim"
   orcid: "https://orcid.org/0000-0002-5566-1485"
 title: "My Research Software"
-version: 0.1.0
+version: 2.0.4
 doi: 10.5281/zenodo.7497461
-date-released: 2022-06-20
+date-released: 2017-12-18
 url: "https://doi.org/10.5281/zenodo.7497461"
 preferred-citation:
   type: data
@@ -20,7 +20,7 @@ preferred-citation:
   month: 9
   start: 1 # First page number
   end: 10 # Last page number
-  title: "WCE images for training U-Net model to provide the mask"
+  title: "My data"
   issue: 1
   volume: 1
   year: 2022
