@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0002-5566-1485"
+title: "My Research Software"
+version: 2.0.4
+doi: 10.5281/zenodo.7497448
+date-released: 2017-12-18
+url: "https://doi.org/10.5281/zenodo.7497448"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Lisa"
+    given-names: "Mona"
+    orcid: "https://orcid.org/0000-0002-5566-1485"
+  doi: "10.5281/zenodo.7497448"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "My awesome data"
+  issue: 1
+  volume: 1
+  year: 2021
