@@ -17,5 +17,10 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0002-5566-1485"
   doi: "10.5281/zenodo.7497461"
   journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 10 # Last page number
   title: "WCE images for training U-Net model to provide the mask"
+  issue: 1
+  volume: 1
   year: 2022
