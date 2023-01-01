@@ -1,4 +1,4 @@
 # WCE_Dataset_for_U-Net
-800 images for training and 16 for testing the U-Net model to segment the specular reflection in the WCE images.
+816 images with the corresponding ground truth to train and test the U-Net model for specular reflection segmentation in the WCE images.
 
 [![DOI](https://zenodo.org/badge/509146088.svg)](https://zenodo.org/badge/latestdoi/509146088)
