@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bidokh"
+  given-names: "Ebrahim"
+  orcid: "https://orcid.org/0000-0002-5566-1485"
+title: "My Research Software"
+version: 0.1.0
+doi: 10.5281/zenodo.7497461
+date-released: 2022-06-20
+url: "https://doi.org/10.5281/zenodo.7497461"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Bidokh"
+    given-names: "Ebrahim"
+    orcid: "https://orcid.org/0000-0002-5566-1485"
+  doi: "10.5281/zenodo.7497461"
+  journal: "Journal Title"
+  title: "WCE images for training U-Net model to provide the mask"
+  year: 2022
